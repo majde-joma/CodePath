@@ -1,0 +1,1 @@
+// Firestore JS placeholder
